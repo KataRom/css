@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:rgb(255, 190, 190);
+    border-radius:20px;
+}
+.header a{
+border-radius:30px;
+background-color:rgb(196, 255, 210);
+}
+main{
+font-family:Courier New;
+border-radius:20px;
+ 
+}
+main h1{
+    border-radius:30px;
+     background-color:rgb(186, 255, 207);
+    
+}
+footer p{
+background-color:rgb(210, 165, 253);
+}
+nav {
+    border:7px;
+    border-color:silver;
+    background-color:rgb(251, 255, 196);
+    border-radius:40px;
+} 
